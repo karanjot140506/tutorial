@@ -1,4 +1,5 @@
 # tutorial
 this is my first repository
 <br>
-Author - karanjot
+Author - karanjot(beginer)
+
